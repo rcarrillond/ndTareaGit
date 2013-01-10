@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+echo "muestra mensaje";
 ?>
